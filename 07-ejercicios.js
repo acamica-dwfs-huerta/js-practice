@@ -1,0 +1,1 @@
+// hacer una función que acepte un objeto conteniendo NOMBRE, APELLIDO, EDAD, PROFESION, y devuelva un string con una oracion formada
